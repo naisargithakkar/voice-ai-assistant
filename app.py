@@ -56,7 +56,7 @@ interface = gr.Interface(
         gr.Textbox(label="AI Reply (LLM)"),
         gr.Audio(label="AI Voice (TTS)", autoplay=True)
     ],
-    title="Free Voice AI Assistant (Groq + gTTS)"
+    title="Voice AI Assistant"
 )
 
 if __name__ == "__main__":
