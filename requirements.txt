@@ -1,0 +1,4 @@
+groq
+gTTS
+gradio
+python-dotenv
